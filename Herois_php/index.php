@@ -20,9 +20,7 @@
         <button class="btn btn-primary m-auto d-block w-50 mt-4">submit</button>
     </form>
 
-    <section class="result">
 
-    </section>
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
